@@ -2,7 +2,7 @@
 
 Dette repoet er svaret på oppgaven før 2. intervju til AI-teamet hos Arkivverket. Hvis du vil kjøre koden må du først:
 
-* Installere akkene som er listet opp i requirements.txt
+* Installere akkene som er listet opp i requirements.txt (jeg har også listet versjonene jeg har brukt for å sikre at alt kjører som det skal)
 * Laste ned spacy-modellen 'nb_core_news_lg'
 
 ## Del 1
