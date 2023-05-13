@@ -1,0 +1,20 @@
+{
+    "urnid": "db60044923000352",
+    "img_path": "./images/db60044923000352.jpg",
+    "raw_ocr_text": "y\n| f\n",
+    "corrected_ocr_text": "y\ni f\n",
+    "tokens": [
+        "y",
+        "\n",
+        "i",
+        "f",
+        "\n"
+    ],
+    "lemmatized_tokens": [
+        "y",
+        "\n",
+        "i",
+        "f",
+        "\n"
+    ]
+}

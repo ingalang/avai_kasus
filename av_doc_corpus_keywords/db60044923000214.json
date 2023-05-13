@@ -1,0 +1,113 @@
+{
+    "urnid": "db60044923000214",
+    "img_path": "./images/db60044923000214.jpg",
+    "raw_ocr_text": "Ken ok te Ctr damen DR\n\nnike dale died Vinl\ntett order\n Videte bin da brtlen ler fett)\n",
+    "corrected_ocr_text": "Ken ok te Car damen DR\n\nnike dale died Ving\ntett order\n Videre bin da bilen ler fett)\n",
+    "tokens": [
+        "Ken",
+        "ok",
+        "te",
+        "Car",
+        "damen",
+        "DR",
+        "\n\n",
+        "nike",
+        "dale",
+        "died",
+        "Ving",
+        "\n",
+        "tett",
+        "order",
+        "\n ",
+        "Videre",
+        "bin",
+        "da",
+        "bilen",
+        "ler",
+        "fett",
+        ")",
+        "\n"
+    ],
+    "lemmatized_tokens": [
+        "Ken",
+        "ok",
+        "te",
+        "Car",
+        "dame",
+        "DR",
+        "\n\n",
+        "nik",
+        "dale",
+        "died",
+        "Ving",
+        "\n",
+        "tett",
+        "orde",
+        "\n ",
+        "vid",
+        "bin",
+        "da",
+        "bil",
+        "le",
+        "fett",
+        "$)",
+        "\n"
+    ],
+    "content_words": [
+        [
+            "dame",
+            4
+        ],
+        [
+            "dale",
+            8
+        ],
+        [
+            "died",
+            9
+        ],
+        [
+            "ving",
+            10
+        ],
+        [
+            "tett",
+            12
+        ],
+        [
+            "orde",
+            13
+        ],
+        [
+            "fett",
+            20
+        ]
+    ],
+    "unique_content_words": [
+        "dale",
+        "dame",
+        "died",
+        "fett",
+        "orde",
+        "tett",
+        "ving"
+    ],
+    "lda_topic": [
+        {
+            "index": 0,
+            "score": "0.76294696",
+            "terms": [
+                "post",
+                "h\u00f8yesterett",
+                "pris",
+                "erstatning",
+                "avtale",
+                "bevilgning",
+                "part",
+                "eiendom",
+                "stat",
+                "ekspropriasjon"
+            ]
+        }
+    ]
+}

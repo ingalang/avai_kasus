@@ -1,0 +1,32 @@
+{
+    "urnid": "db60044923000525",
+    "img_path": "./images/db60044923000525.jpg",
+    "raw_ocr_text": "kneet \u00e5 penkjehebnsen, onter Jeg s\u00e5 sovtanbilingen frame)\n",
+    "corrected_ocr_text": "kneet \u00e5 penkjehebnsen, Inter Jeg s\u00e5 sovtanbilingen frame)\n",
+    "tokens": [
+        "kneet",
+        "\u00e5",
+        "penkjehebnsen",
+        ",",
+        "Inter",
+        "Jeg",
+        "s\u00e5",
+        "sovtanbilingen",
+        "frame",
+        ")",
+        "\n"
+    ],
+    "lemmatized_tokens": [
+        "kne",
+        "\u00e5",
+        "penkjehebns",
+        "$,",
+        "Inter",
+        "jeg",
+        "se",
+        "sovtanbiling",
+        "frame",
+        "$)",
+        "\n"
+    ]
+}

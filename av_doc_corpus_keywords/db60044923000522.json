@@ -1,0 +1,73 @@
+{
+    "urnid": "db60044923000522",
+    "img_path": "./images/db60044923000522.jpg",
+    "raw_ocr_text": "GE  elod m\u00e5 vnro- den: venne 00 \u00e5 \u00f8Me Ma.\n29 x PE \u00e5 re TG E E p GLE \u00e5 vag va\n",
+    "corrected_ocr_text": "GE  blod m\u00e5 ver-den: venne 00 \u00e5 \u00f8ke Ma.\n29 x PE \u00e5 re TG E E p GLE \u00e5 vag va\n",
+    "tokens": [
+        "GE",
+        " ",
+        "blod",
+        "m\u00e5",
+        "ver-den",
+        ":",
+        "venne",
+        "00",
+        "\u00e5",
+        "\u00f8ke",
+        "Ma",
+        ".",
+        "\n",
+        "29",
+        "x",
+        "PE",
+        "\u00e5",
+        "re",
+        "TG",
+        "E",
+        "E",
+        "p",
+        "GLE",
+        "\u00e5",
+        "vag",
+        "va",
+        "\n"
+    ],
+    "lemmatized_tokens": [
+        "GE",
+        " ",
+        "blod",
+        "m\u00e5tte",
+        "ver-den",
+        "$:",
+        "venne",
+        "00",
+        "\u00e5",
+        "\u00f8ke",
+        "Ma",
+        "$.",
+        "\n",
+        "29",
+        "x",
+        "PE",
+        "\u00e5",
+        "re",
+        "TG",
+        "E",
+        "E",
+        "p",
+        "GLE",
+        "\u00e5",
+        "vag",
+        "va",
+        "\n"
+    ],
+    "content_words": [
+        [
+            "blod",
+            2
+        ]
+    ],
+    "unique_content_words": [
+        "blod"
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "urnid": "db60044923000424",
+    "img_path": "./images/db60044923000424.jpg",
+    "raw_ocr_text": "-d\u00f8 har for tiden under utredning sp\u00f6rsm\u00e5let om kom\ntroll med finansierinen av de politiske partier\u00f8\nvirksomhet. om\n\n/ Ge ss EE EE\nVE ee\n(\n",
+    "corrected_ocr_text": "d\u00f8 har for tiden under utredning sp\u00f8rsm\u00e5let om kom\ntroll med finansieringen av de politiske partier\nvirksomhet. om\n\n/ Ge ss EE EE\nVE ee\n(\n",
+    "tokens": [
+        "d\u00f8",
+        "har",
+        "for",
+        "tiden",
+        "under",
+        "utredning",
+        "sp\u00f8rsm\u00e5let",
+        "om",
+        "kom",
+        "\n",
+        "troll",
+        "med",
+        "finansieringen",
+        "av",
+        "de",
+        "politiske",
+        "partier",
+        "\n",
+        "virksomhet",
+        ".",
+        "om",
+        "\n\n",
+        "/",
+        "Ge",
+        "ss",
+        "EE",
+        "EE",
+        "\n",
+        "VE",
+        "ee",
+        "\n",
+        "(",
+        "\n"
+    ],
+    "lemmatized_tokens": [
+        "d\u00f8",
+        "ha",
+        "for",
+        "tid",
+        "under",
+        "utredning",
+        "sp\u00f8rsm\u00e5l",
+        "om",
+        "komme",
+        "\n",
+        "troll",
+        "med",
+        "finansiering",
+        "av",
+        "de",
+        "politisk",
+        "parti",
+        "\n",
+        "virksomhet",
+        "$.",
+        "om",
+        "\n\n",
+        "/",
+        "Ge",
+        "ss",
+        "EE",
+        "EE",
+        "\n",
+        "VE",
+        "ee",
+        "\n",
+        "$(",
+        "\n"
+    ],
+    "content_words": [
+        [
+            "utredning",
+            5
+        ],
+        [
+            "sp\u00f8rsm\u00e5l",
+            6
+        ],
+        [
+            "troll",
+            10
+        ],
+        [
+            "finansiering",
+            12
+        ],
+        [
+            "politisk",
+            15
+        ],
+        [
+            "parti",
+            16
+        ],
+        [
+            "virksomhet",
+            18
+        ]
+    ],
+    "unique_content_words": [
+        "finansiering",
+        "parti",
+        "politisk",
+        "sp\u00f8rsm\u00e5l",
+        "troll",
+        "utredning",
+        "virksomhet"
+    ],
+    "lda_topic": [
+        {
+            "index": 5,
+            "score": "0.7527558",
+            "terms": [
+                "monopol",
+                "stat",
+                "grunneier",
+                "sp\u00f8rsm\u00e5l",
+                "grunnloven",
+                "erstatning",
+                "utvalg",
+                "investering",
+                "reduksjon",
+                "fast"
+            ]
+        }
+    ]
+}

@@ -1,13 +1,14 @@
 # avai_kasus
 
-Denne oppgaven går ut på å trekke tekst ut av et bilde og så bruke NLP-teknikker på det man får ut. Fork dette repoet til din konto, og fyll ut med en løsning i notebook-en `avai_case.ipynb`. `requirements.txt` peker til pakker som trengs for å utføre oppgaven.
+Dette repoet er svaret på oppgaven før 2. intervju til AI-teamet hos Arkivverket. Hvis du vil kjøre koden må du først:
+
+* Installere akkene som er listet opp i requirements.txt
+* Laste ned spacy-modellen 'nb_core_news_lg'
 
 ## Del 1
-Du finner bildet `db60044923000260.jpg` her i rotmappen. Dette er et noe eldre dokument, skrevet med skrivemaskin, og er ganske typisk for mye av dokumentene vi har:
-
-![](./db60044923000260.jpg)
-
-Les dokumentbildet med OCR, og følg instruksjonene i notebook-en for å evaluere resultatet.
+Del 1 inneholder en relativt enkel OCR-funksjon samt en post-prosessering som tar i bruk enkel stavekontroll for å rette opp i noen av de groveste feilene som kommer med i OCR-resultatet. 
 
 ## Del 2
-Denne delen er ganske åpen. Det gis en hjelperfunksjon til API-et til Digitalarkivet til å laste ned resten av dokumentbildene til kilden. Bruk dette sammen med OCR-lesefunksjonen du implenterte i Del 1 til å lage et tekstkorpus og/eller et bildedatasett. Se om du kommer på noe interessante metoder som kan brukes på dette materialet. Du kan bruke hva som helst av biblioteker og ferdige modeller.
+I denne delen har jeg trukket ut innholdsord og gjort en LDA for å finne temaer og temaord i dokumentene. De første cellene av koden i del 2 er delen som leser inn alle dokumentbildene med OCR og lagrer resultatene i mappen 'av_doc_corpus'. Siden det tar ganske lang tid å lese inn alle bildene og hente ut tekst med OCR, anbefaler jeg å bare se på resultatene i mappen, som også er lagt ved. 
+
+Videre i del 2 henter jeg ut innholdsord og gjør en enkel LDA. Deretter lagrer jeg en ny versjon av korpuset i mappen 'av_doc_corpus_keywords', som inneholder alt det samme som i den førstnevnte mappen pluss tokeniserte versjoner av tekstene, innholdsord, temaer (samt score som ble gitt de forskjellige temaene fra LDA-modellen) og temabegreper (ord som "definerer" de forskjellige abstrakte temaene). 

@@ -1,0 +1,38 @@
+{
+    "urnid": "db60044923000329",
+    "img_path": "./images/db60044923000329.jpg",
+    "raw_ocr_text": "-C : \u00e5\nre\n\nEI\n\nmn\n\nA\n\nRA\n",
+    "corrected_ocr_text": "FC : \u00e5\nre\n\nEI\n\nmn\n\nA\n\nRA\n",
+    "tokens": [
+        "FC",
+        ":",
+        "\u00e5",
+        "\n",
+        "re",
+        "\n\n",
+        "EI",
+        "\n\n",
+        "mn",
+        "\n\n",
+        "A",
+        "\n\n",
+        "RA",
+        "\n"
+    ],
+    "lemmatized_tokens": [
+        "FC",
+        "$:",
+        "\u00e5",
+        "\n",
+        "re",
+        "\n\n",
+        "EI",
+        "\n\n",
+        "mn",
+        "\n\n",
+        "A",
+        "\n\n",
+        "RA",
+        "\n"
+    ]
+}

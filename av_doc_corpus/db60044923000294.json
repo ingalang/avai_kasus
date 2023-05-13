@@ -1,0 +1,30 @@
+{
+    "urnid": "db60044923000294",
+    "img_path": "./images/db60044923000294.jpg",
+    "raw_ocr_text": "pe\nAa\nNG\n- Ko -\n",
+    "corrected_ocr_text": "pe\nAa\nNG\n- Ko -\n",
+    "tokens": [
+        "pe",
+        "\n",
+        "Aa",
+        "\n",
+        "NG",
+        "\n",
+        "-",
+        "Ko",
+        "-",
+        "\n"
+    ],
+    "lemmatized_tokens": [
+        "pe",
+        "\n",
+        "Aa",
+        "\n",
+        "NG",
+        "\n",
+        "$-",
+        "Ko",
+        "$-",
+        "\n"
+    ]
+}

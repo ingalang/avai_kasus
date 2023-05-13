@@ -1,0 +1,36 @@
+{
+    "urnid": "db60044923000433",
+    "img_path": "./images/db60044923000433.jpg",
+    "raw_ocr_text": "i\np\u00e5\n\"\nper\ni N Mr\n",
+    "corrected_ocr_text": "i\np\u00e5\n\"\nper\ni N Mr\n",
+    "tokens": [
+        "i",
+        "\n",
+        "p\u00e5",
+        "\n",
+        "\"",
+        "\n",
+        "per",
+        "\n",
+        "i",
+        "N",
+        "Mr",
+        "\n"
+    ],
+    "lemmatized_tokens": [
+        "i",
+        "\n",
+        "p\u00e5",
+        "\n",
+        "$\"",
+        "\n",
+        "per",
+        "\n",
+        "i",
+        "N",
+        "Mr",
+        "\n"
+    ],
+    "content_words": [],
+    "unique_content_words": []
+}

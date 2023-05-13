@@ -1,0 +1,146 @@
+{
+    "urnid": "db60044923000289",
+    "img_path": "./images/db60044923000289.jpg",
+    "raw_ocr_text": "1\nAG f\u00f8 I\n*\n3 vedtaket av 1860 etter om\u00e5tendighetene tilr\u00e5r at\n| soknepresten \u00e5 tilfelle s\u00f6kes fjernet fra sitt\n1 embete ved s\u00f6ksm\u00e5l etter stri. ikrl. $ 10.\n| %-1.08.\n",
+    "corrected_ocr_text": "1\nAG f\u00f8 I\n*\n3 vedtaket av 1860 etter omstendighetene tilr\u00e5r at\ni soknepresten \u00e5 tilfelle s\u00f8kes fjernet fra sitt\n1 embete ved s\u00f8ksm\u00e5l etter stri. krl. \u00a7 10.\ni %-1.08.\n",
+    "tokens": [
+        "1",
+        "\n",
+        "AG",
+        "f\u00f8",
+        "I",
+        "\n",
+        "*",
+        "\n",
+        "3",
+        "vedtaket",
+        "av",
+        "1860",
+        "etter",
+        "omstendighetene",
+        "tilr\u00e5r",
+        "at",
+        "\n",
+        "i",
+        "soknepresten",
+        "\u00e5",
+        "tilfelle",
+        "s\u00f8kes",
+        "fjernet",
+        "fra",
+        "sitt",
+        "\n",
+        "1",
+        "embete",
+        "ved",
+        "s\u00f8ksm\u00e5l",
+        "etter",
+        "stri",
+        ".",
+        "krl",
+        ".",
+        "\u00a7",
+        "10.",
+        "\n",
+        "i",
+        "%",
+        "-1.08.",
+        "\n"
+    ],
+    "lemmatized_tokens": [
+        "1",
+        "\n",
+        "AG",
+        "f\u00f8",
+        "i",
+        "\n",
+        "*",
+        "\n",
+        "3",
+        "vedtak",
+        "av",
+        "1860",
+        "etter",
+        "omstendighet",
+        "tilr\u00e5",
+        "at",
+        "\n",
+        "i",
+        "sokneprest",
+        "\u00e5",
+        "tilfelle",
+        "s\u00f8ke",
+        "fjerne",
+        "fra",
+        "sin",
+        "\n",
+        "1",
+        "embete",
+        "ved",
+        "s\u00f8ksm\u00e5l",
+        "etter",
+        "stri",
+        "$.",
+        "krl",
+        "$.",
+        "\u00a7",
+        "10.",
+        "\n",
+        "i",
+        "%",
+        "-1.08.",
+        "\n"
+    ],
+    "content_words": [
+        [
+            "vedtak",
+            9
+        ],
+        [
+            "omstendighet",
+            13
+        ],
+        [
+            "sokneprest",
+            18
+        ],
+        [
+            "embete",
+            27
+        ],
+        [
+            "s\u00f8ksm\u00e5l",
+            29
+        ],
+        [
+            "stri",
+            31
+        ]
+    ],
+    "unique_content_words": [
+        "embete",
+        "omstendighet",
+        "sokneprest",
+        "stri",
+        "s\u00f8ksm\u00e5l",
+        "vedtak"
+    ],
+    "lda_topic": [
+        {
+            "index": 1,
+            "score": "0.74552006",
+            "terms": [
+                "jordbruk",
+                "stat",
+                "avtale",
+                "forhandling",
+                "pris",
+                "norsk",
+                "ordning",
+                "erstatning",
+                "tiltak",
+                "bedrift"
+            ]
+        }
+    ]
+}

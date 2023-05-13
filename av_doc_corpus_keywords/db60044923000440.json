@@ -1,0 +1,26 @@
+{
+    "urnid": "db60044923000440",
+    "img_path": "./images/db60044923000440.jpg",
+    "raw_ocr_text": "GT\np\u00e5 en\nsiler\n",
+    "corrected_ocr_text": "GT\np\u00e5 en\nsiler\n",
+    "tokens": [
+        "GT",
+        "\n",
+        "p\u00e5",
+        "en",
+        "\n",
+        "siler",
+        "\n"
+    ],
+    "lemmatized_tokens": [
+        "GT",
+        "\n",
+        "p\u00e5",
+        "en",
+        "\n",
+        "sile",
+        "\n"
+    ],
+    "content_words": [],
+    "unique_content_words": []
+}
